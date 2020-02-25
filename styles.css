@@ -1,0 +1,24 @@
+.card-body{
+  font-size: 1.2rem;
+}
+.card-title{
+  font-size: 1.6rem;
+  font-weight: bold;
+}
+.card-subtitle{
+  font-size: 1.2rem;
+}
+.heading{
+  color: black;
+}
+h4{
+  padding-bottom: 0.6rem;
+}
+h1{
+  padding-top: 20px;
+  color: #fdd365;
+}
+a:hover{
+  color: pink;
+
+}
